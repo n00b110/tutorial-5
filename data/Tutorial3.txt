@@ -1,0 +1,7 @@
+Welcome to tutorial three on how to import files in Python. We will work with the following types of files:
+1. Text
+2. CSV
+3. Excel
+4. JSON
+6. Image
+Enjoy the read!
